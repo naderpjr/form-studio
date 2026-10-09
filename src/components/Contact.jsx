@@ -4,7 +4,7 @@ export default function Contact() {
             <div className="relative z-10 mx-auto w-[min(90rem,100%-6rem)] max-md:w-[calc(100%-2.25rem)]">
                 <span className="block text-[10px] font-semibold tracking-[0.1em] uppercase">04 / NEXT CHAPTER</span>
                 <h2 className="mt-16 text-[clamp(3.5rem,9.5vw,8.125rem)] font-medium leading-[0.92] tracking-[-0.09em] max-md:mt-14 max-md:text-[clamp(3.25rem,12vw,4.7rem)]">
-                    Have a good<br />idea? <em className="font-serif italic">Let's make it.</em>
+                    Have a good<br />idea? Let's make it.
                 </h2>
                 <a
                     href="mailto:hello@form.studio"
