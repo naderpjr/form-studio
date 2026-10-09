@@ -2,7 +2,7 @@ export default function Hero() {
     return (
         <section className="mx-auto w-[min(90rem,100%-6rem)] pt-12 max-md:w-[calc(100%-2.25rem)] max-md:pt-7">
             <div className="flex items-center gap-2.5 text-[10px] font-semibold tracking-[0.08em] uppercase">
-                <span className="h-[7px] w-[7px] shrink-0 rounded-full bg-status animate-pulse" />
+                <span className="h-1.75 w-1.75 shrink-0 rounded-full bg-status animate-pulse" />
                 <span>INDEPENDENT CREATIVE STUDIO</span>
                 <span className="ml-auto text-muted max-md:hidden">EST. 2021 / BASED EVERYWHERE</span>
             </div>
