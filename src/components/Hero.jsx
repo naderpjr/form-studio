@@ -9,7 +9,7 @@ export default function Hero() {
 
             <h1 className="mt-[72px] text-[clamp(4.5rem,14.5vw,12.8rem)] font-medium leading-[0.82] tracking-[-0.1em] max-md:mt-[68px] max-md:text-[clamp(4.2rem,16vw,6.5rem)]">
                 We make<br />
-                ideas <em className="font-serif italic tracking-[-0.08em]">matter.</em>
+                ideas <em className="italic tracking-[-0.08em]">matter.</em>
             </h1>
 
             <div className="my-14 grid grid-cols-3 items-end gap-6 max-md:my-10 max-md:grid-cols-[1fr_auto]">
